@@ -13,6 +13,8 @@ Assuming a base install with git
 * Firefox
 * MPV
 * *Music application*
+### AUR
+* yay
 
 ## Restore files
 ### Background
