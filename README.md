@@ -3,16 +3,16 @@ Assuming a base install with git
 
 ## Install the several packages 
 ### Shell
-Zsh
+* Zsh
 ### WM
-Xorg
-i3-gaps
-polybar
+* Xorg
+* i3-gaps
+* polybar
 ### Miscellaneous
-*Terminal application*
-Firefox
-MPV
-*Music application*
+* *Terminal application*
+* Firefox
+* MPV
+* *Music application*
 
 ## Restore files
 ### Background
