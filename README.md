@@ -11,7 +11,7 @@ Assuming a base install with git
 * polybar
 * rofi
 * lightdm
-* lightdm-webkit-theme-aether
+  * lightdm-webkit-theme-aether
 ### Miscellaneous
 * *Terminal application*
 * Firefox
