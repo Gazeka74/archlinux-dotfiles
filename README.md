@@ -10,6 +10,8 @@ Assuming a base install with git
 * i3-gaps
 * polybar
 * rofi
+* lightdm
+* lightdm-webkit-theme-aether
 ### Miscellaneous
 * *Terminal application*
 * Firefox
