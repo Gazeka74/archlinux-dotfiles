@@ -4,6 +4,7 @@ Assuming a base install with git
 ## Install the several packages 
 ### Shell
 * Zsh
+* ufetch
 ### WM
 * Xorg
 * i3-gaps
