@@ -8,6 +8,7 @@ Assuming a base install with git
 * Xorg
 * i3-gaps
 * polybar
+* rofi
 ### Miscellaneous
 * *Terminal application*
 * Firefox
