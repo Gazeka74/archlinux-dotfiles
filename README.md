@@ -1,2 +1,2 @@
-# archlinux-dotfiles
-Dotfiles for an archlinux_rice
+# Several dotfiles for an Archlinux rice
+TODO
