@@ -15,6 +15,8 @@ Assuming a base install with git
 * lightdm
   * lightdm-webkit-theme-aether
 * feh
+### Fonts
+* *fonts*
 ### Miscellaneous
 #### Terminal
 * termite
@@ -26,6 +28,8 @@ Assuming a base install with git
 * MPV
 #### AUR
 * yay
+* onlyoffice
+
 
 ## Restore files
 ### Background
