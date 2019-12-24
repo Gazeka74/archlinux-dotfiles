@@ -14,8 +14,10 @@ Assuming a base install with git
 * rofi
 * lightdm
   * lightdm-webkit-theme-aether
+* feh
 ### Miscellaneous
 #### Terminal
+* termite
 #### Internet
 * Firefox
 #### Music
