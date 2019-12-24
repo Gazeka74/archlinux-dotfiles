@@ -4,6 +4,7 @@ Assuming a base install with git
 ## Install the several packages 
 ### Shell
 * Zsh
+ * Powerlevel10K 
 * ufetch
 ### WM
 * Xorg
