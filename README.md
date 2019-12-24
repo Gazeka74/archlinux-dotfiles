@@ -10,15 +10,19 @@ Assuming a base install with git
 * Xorg
 * i3-gaps
 * polybar
+ * https://github.com/adi1090x/polybar-themes
 * rofi
 * lightdm
   * lightdm-webkit-theme-aether
 ### Miscellaneous
-* *Terminal application*
+#### Terminal
+#### Internet
 * Firefox
-* MPV
+#### Music
 * *Music application*
-### AUR
+#### Video
+* MPV
+#### AUR
 * yay
 
 ## Restore files
