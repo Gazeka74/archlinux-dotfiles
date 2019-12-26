@@ -12,11 +12,9 @@ Assuming base install with git on top
 * sudo pacman -S lightdm lightdm-webkit-theme-litarvan
 * systemctl enable lightdm
 * vim /etc/lightdm/lightdm.conf
-*update [Seat:\*]
-  *greeter-session=lightdm-webkit2-greeter*
+ * *update [Seat:\*] greeter-session=lightdm-webkit2-greeter*
 * vim /etc/lightdm/lightdm-webkit2-greeter.conf
-*update [greeter]
-  *webkit_theme = litarvan*
+ * *update [greeter] webkit_theme = litarvan*
 ## Terminal
 * sudo pacman -S termite
 ## Applications
