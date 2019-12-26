@@ -1,4 +1,5 @@
-# Install process
+# Post-install process
+Assuming base install with git on top
 ## Rank mirrors
 *pacman-contrib*
 * sudo cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.backup
@@ -16,3 +17,7 @@
 *update [greeter]   -> webkit_theme = litarvan*
 ## Terminal
 * sudo pacman -S termite
+
+## Applications
+* sudo pacman -S firefox mpv 
+* yay keeweb
