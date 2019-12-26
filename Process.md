@@ -1,5 +1,10 @@
 # Post-install process
 Assuming base install with git on top
+## zsh + theme
+* pacman -S zsh 
+* chsh
+* git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
+* **echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>! ~/.zshrc**
 ## Rank mirrors
 *pacman-contrib*
 * sudo cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.backup
