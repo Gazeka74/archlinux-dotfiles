@@ -17,7 +17,6 @@ Assuming base install with git on top
 *update [greeter]   -> webkit_theme = litarvan*
 ## Terminal
 * sudo pacman -S termite
-
 ## Applications
 * sudo pacman -S firefox mpv 
 * yay keeweb
