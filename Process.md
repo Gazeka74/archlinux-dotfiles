@@ -8,7 +8,7 @@ Assuming base install with git on top
 * sudo pacman -S i3 xorg xorg-xinit
 * echo "exec i3" > ~/.xinitrc
 ## Lightdm
-*virtualbox*
+=> *virtualbox*
 * sudo pacman -S lightdm lightdm-webkit-theme-litarvan
 * systemctl enable lightdm
 * vim /etc/lightdm/lightdm.conf
