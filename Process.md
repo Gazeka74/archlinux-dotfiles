@@ -23,5 +23,5 @@ Assuming base install with git on top
 ## Terminal
 * sudo pacman -S termite
 ## Applications
-* sudo pacman -S firefox mpv 
+* sudo pacman -S firefox mpv thunar
 * yay keeweb ufetch
