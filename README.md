@@ -29,6 +29,7 @@ Assuming a base install with git
 #### AUR
 * yay
 * onlyoffice
+* keeweb
 
 
 ## Restore files
