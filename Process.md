@@ -19,4 +19,4 @@ Assuming base install with git on top
 * sudo pacman -S termite
 ## Applications
 * sudo pacman -S firefox mpv 
-* yay keeweb
+* yay keeweb ufetch
